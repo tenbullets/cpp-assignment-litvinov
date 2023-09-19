@@ -1,0 +1,3 @@
+/home/tenbullets/Рабочий стол/hw_1/build/CMakeFiles/rebuild_cache.dir
+/home/tenbullets/Рабочий стол/hw_1/build/CMakeFiles/edit_cache.dir
+/home/tenbullets/Рабочий стол/hw_1/build/CMakeFiles/hw_1.dir
