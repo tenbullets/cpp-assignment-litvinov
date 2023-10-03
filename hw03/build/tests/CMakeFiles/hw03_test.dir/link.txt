@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/hw03_test.dir/hw03_test.o  -o hw03_test   -L"/home/tenbullets/Рабочий стол/hw03/build/src"  -lGTest::gtest ../src/libhw03.a 

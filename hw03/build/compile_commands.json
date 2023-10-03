@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/tenbullets/Рабочий стол/hw03/build/src",
+  "command": "/usr/bin/g++   -I\"/home/tenbullets/Рабочий стол/hw03/src/include\"  -g   -o CMakeFiles/hw03.dir/hw03.o -c \"/home/tenbullets/Рабочий стол/hw03/src/hw03.cpp\"",
+  "file": "/home/tenbullets/Рабочий стол/hw03/src/hw03.cpp"
+},
+{
+  "directory": "/home/tenbullets/Рабочий стол/hw03/build/tests",
+  "command": "/usr/bin/g++   -I\"/home/tenbullets/Рабочий стол/hw03/src/include\"  -g   -o CMakeFiles/hw03_test.dir/hw03_test.o -c \"/home/tenbullets/Рабочий стол/hw03/tests/hw03_test.cpp\"",
+  "file": "/home/tenbullets/Рабочий стол/hw03/tests/hw03_test.cpp"
+}
+]

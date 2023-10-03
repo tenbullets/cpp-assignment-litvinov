@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/include/hw03.h
+
+/home/tenbullets/Рабочий стол/hw03/src/hw03.cpp
+hw03.h
+-
+iostream
+-
+string
+-
+

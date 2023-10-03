@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhw03.a  CMakeFiles/hw03.dir/hw03.o
+/usr/bin/ranlib libhw03.a
