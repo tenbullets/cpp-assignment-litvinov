@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/tenbullets/Рабочий стол/hw05/build/src",
+  "command": "/usr/bin/g++   -I\"/home/tenbullets/Рабочий стол/hw05/src/include\"  -g   -o CMakeFiles/hw05.dir/hw05.o -c \"/home/tenbullets/Рабочий стол/hw05/src/hw05.cpp\"",
+  "file": "/home/tenbullets/Рабочий стол/hw05/src/hw05.cpp"
+},
+{
+  "directory": "/home/tenbullets/Рабочий стол/hw05/build/tests",
+  "command": "/usr/bin/g++   -I\"/home/tenbullets/Рабочий стол/hw05/src/include\"  -g   -o CMakeFiles/hw05_test.dir/hw05_test.o -c \"/home/tenbullets/Рабочий стол/hw05/tests/hw05_test.cpp\"",
+  "file": "/home/tenbullets/Рабочий стол/hw05/tests/hw05_test.cpp"
+}
+]

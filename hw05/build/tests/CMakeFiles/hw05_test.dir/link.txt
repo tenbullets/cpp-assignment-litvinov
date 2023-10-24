@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/hw05_test.dir/hw05_test.o  -o hw05_test   -L"/home/tenbullets/Рабочий стол/hw05/build/src"  -lGTest::gtest ../src/libhw05.a 

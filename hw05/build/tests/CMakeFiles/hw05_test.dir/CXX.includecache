@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/include/hw05.h
+string
+-
+vector
+-
+
+/home/tenbullets/Рабочий стол/hw05/tests/hw05_test.cpp
+hw05.h
+-
+gtest/gtest.h
+-
+

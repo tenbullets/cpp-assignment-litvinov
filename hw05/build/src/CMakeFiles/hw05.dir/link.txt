@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhw05.a  CMakeFiles/hw05.dir/hw05.o
+/usr/bin/ranlib libhw05.a
