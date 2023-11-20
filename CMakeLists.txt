@@ -24,5 +24,5 @@ if (BUILD_TESTS)
     add_subdirectory(external)
 endif (BUILD_TESTS)
 
-add_subdirectory(hw04)
+add_subdirectory(hw06)
 
